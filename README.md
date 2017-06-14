@@ -5,6 +5,7 @@ Requirements:
 - Install nodejs + npm (https://nodejs.org/en/download/)
 - Open cmd in project directory then:
   - "npm install"
+  - "npm install grunt -g"
   - "grunt"
   
 Your webbrowser should open the index.html file and the phaser logo will shine in it's glory.
